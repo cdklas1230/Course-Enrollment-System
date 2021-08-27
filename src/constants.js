@@ -1,0 +1,1 @@
+export const JWT_TOKEN_COOKIE_NAME = "user_jwt_token";
